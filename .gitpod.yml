@@ -1,2 +1,3 @@
-image:
-  file: .gitpod.dockerfile
+tasks:
+  - init: pip install ansible # Install ansible on startup
+
