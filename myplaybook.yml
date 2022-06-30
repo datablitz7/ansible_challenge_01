@@ -1,0 +1,6 @@
+---
+- hosts: all
+
+  # This playbook should be run on any host locally
+  roles:
+    - myrole # Feel free to find a more suitable name for the role
